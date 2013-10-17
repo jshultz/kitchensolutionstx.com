@@ -1,0 +1,13 @@
+Theme Name:     Kitchen Solutions
+Theme URI:      http://kitchensolutionstx.com/
+Description:    Child theme for the Twenty Thirteen theme
+Author:         Jason Shultz
+Author URI:     http://jasonshultz.com/about/
+Template:       Foundation
+Version:        0.1.0
+*/
+.row {}
+
+@import url("../Foundation/style.css");
+
+.row .post, .row .page {background-color:#fff;}
